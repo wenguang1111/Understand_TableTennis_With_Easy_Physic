@@ -112,6 +112,8 @@ The entire contact–compression–rebound process is t. In the author's explana
 
 *Added illustration: deformation is exaggerated for visibility. The ball indents the surface; it does not pass through the rubber. The force curve is schematic, with no measured millisecond values or product comparisons.*
 
+**How to read the diagram:** The brown blade bends as the sponge compresses, then recovers; bending is exaggerated, and the blade may continue vibrating after separation. Red arrows show the force **exerted by the racket on the ball**, perpendicular to the surface. Teal arrows show the ball's motion. During compression the ball can still move toward the racket while the racket force already points away from it. The lower graph shows this force on the ball over time: it builds up and then returns to zero when contact ends. Its height is force, its horizontal span is contact duration, and the shaded area is the normal impulse delivered to the ball. It is not a ball trajectory or the player's muscular force. The opposite force acts on the racket, with equal magnitude; that is not the force plotted here. The curve is schematic, not a measured waveform.
+
 **The author's coupling argument: sufficient F is a prerequisite for useful t.** He rejects the idea that gentle taps can train the same contact as a full attacking stroke. Without enough body-driven impact, he argues, the sponge and blade do not deform substantially, and there is no useful compression–recovery cycle.
 
 His summary is: **force creates deformation; deformation creates a useful contact window; a stable grip preserves that window.**
