@@ -215,9 +215,21 @@ Trockenübungen und leichtes Antippen werden nicht vollständig verworfen. Sie s
 
 ### Ergänzte Bildreferenz: Ma Longs Vorhand und Rückhand
 
+**Vollständige Vorhand-Bildfolge — alle 3 Originalgrafiken mit 13 Einzelbildern in Lesereihenfolge.**
+
+**Teil 1/3 · Vorbereitung und Ausholen (Bilder 1–5)**
+
 ![Ma Long: Bewegungsfolge der Vorhand](assets/ma-long-forehand.jpg)
 
-*Ma Long, Vorhand-Bewegungsfolge. Quelle: [„Forehand top-spin against a simple ball or block“, Modern Table Tennis](https://sport.wikireading.ru/39041). Die fünf Bilder zeigen die Vorbereitung und den Beginn der Beschleunigung; die englische Originalbeschriftung bleibt erhalten. Dies ist ein externes Referenzbild, keine neu erstellte Zeichnung und keine Kraftmessung.*
+**Teil 2/3 · Vorwärtsbewegung und Ballkontakt (Bilder 6–9)**
+
+![Ma Long: Vorwärtsbewegung und Ballkontakt, Bilder 6–9](assets/ma-long-forehand-02.jpg)
+
+**Teil 3/3 · Ausschwingen und Rückkehr in die Grundstellung (Bilder 10–13)**
+
+![Ma Long: Ausschwingen und Rückkehr, Bilder 10–13](assets/ma-long-forehand-03.jpg)
+
+*Ma Long, Vorhand-Bewegungsfolge. Quelle: [„Forehand top-spin against a simple ball or block“, Modern Table Tennis](https://sport.wikireading.ru/39041). Alle drei Originalgrafiken sind enthalten: Vorbereitung, Beschleunigung, Ballkontakt, Ausschwingen und Rückkehr. Die englische Originalbeschriftung bleibt erhalten. Dies ist ein externes Referenzbild, keine neu erstellte Zeichnung und keine Kraftmessung.*
 
 ![Ma Long: Vorbereitung der Rückhand](assets/ma-long-backhand.jpg)
 

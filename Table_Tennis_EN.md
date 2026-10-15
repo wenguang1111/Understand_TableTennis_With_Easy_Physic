@@ -215,9 +215,21 @@ The article does allow a limited role for shadow practice and gentle tapping: le
 
 ### Added visual reference: Ma Long's forehand and backhand
 
+**Complete forehand sequence — all 3 source images, 13 frames, in reading order.**
+
+**Part 1/3 · Preparation and backswing (frames 1–5)**
+
 ![Ma Long forehand sequence](assets/ma-long-forehand.jpg)
 
-*Ma Long, forehand sequence. Source: [“Forehand top-spin against a simple ball or block”, Modern Table Tennis](https://sport.wikireading.ru/39041). The five frames show preparation and the start of acceleration; original English annotations are retained. This is an external reference image, not a new drawing or a measurement of force.*
+**Part 2/3 · Forward swing and contact (frames 6–9)**
+
+![Ma Long forward swing and contact, frames 6–9](assets/ma-long-forehand-02.jpg)
+
+**Part 3/3 · Follow-through and recovery (frames 10–13)**
+
+![Ma Long follow-through and recovery, frames 10–13](assets/ma-long-forehand-03.jpg)
+
+*Ma Long, forehand sequence. Source: [“Forehand top-spin against a simple ball or block”, Modern Table Tennis](https://sport.wikireading.ru/39041). All three source images are included, covering preparation, acceleration, contact, follow-through and recovery. Original English annotations are retained. This is an external reference image, not a new drawing or a measurement of force.*
 
 ![Ma Long preparing a backhand](assets/ma-long-backhand.jpg)
 
