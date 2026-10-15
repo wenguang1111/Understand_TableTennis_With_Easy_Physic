@@ -5,8 +5,6 @@
 **Original article (Chinese):** [Read the original](https://blog.qixinge.xyz/2026/10/12/%e4%b9%92%e4%b9%93%e5%ba%95%e5%b1%82%e9%80%bb%e8%be%91%ef%bc%9a%e4%bc%9a%e4%b8%ad%e5%ad%a6%e7%89%a9%e7%90%86%ef%bc%8c%e5%b0%b1%e4%bc%9a%e6%89%93%e4%b9%92%e4%b9%93%e7%90%83-%ef%bd%9cft%ce%b4mv/)  
 **English edition:** A reader-friendly translation of the complete article supplied by the user. Website counters and the duplicated phrase in the Chapter 4 heading have been omitted. The introduction and all five chapters are retained.
 
-> **Editorial note — please read first.** The text below translates the author's coaching philosophy; it does not independently validate it. Some categorical claims are scientifically overstated, particularly those about a completely passive arm, grip pressure guaranteeing longer contact, and gentle practice having little value. These claims remain identifiable as the author's views. The illustrations and the separate physics notes at the end explain the distinctions. “Dwell time” means the brief contact between ball and racket, not a deliberate pause with the ball sitting on the rubber.
-
 ## Series introduction: You do not need advanced maths to understand table tennis
 
 Many players spend a lifetime copying strokes and searching for an elusive “feel”. Yet striking a table-tennis ball is fundamentally a collision, with friction, governed by mechanics.
