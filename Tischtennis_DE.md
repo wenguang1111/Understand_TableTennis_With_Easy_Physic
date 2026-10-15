@@ -1,7 +1,8 @@
 # Die Physik hinter dem Tischtennis
 ## Wer Schulphysik versteht, versteht auch das Spiel | Ft = Δmv
 
-**Original:** 12. Oktober 2026 · 乒乓精进 („Besser werden im Tischtennis“)  
+**Original:** 12. Oktober 2026 · 乒乓精进  
+**Originalartikel (Chinesisch):** [Zum Original](https://blog.qixinge.xyz/2026/10/12/%e4%b9%92%e4%b9%93%e5%ba%95%e5%b1%82%e9%80%bb%e8%be%91%ef%bc%9a%e4%bc%9a%e4%b8%ad%e5%ad%a6%e7%89%a9%e7%90%86%ef%bc%8c%e5%b0%b1%e4%bc%9a%e6%89%93%e4%b9%92%e4%b9%93%e7%90%83-%ef%bd%9cft%ce%b4mv/)  
 **Deutsche Ausgabe:** Eine verständliche Übersetzung des vollständig bereitgestellten Artikels. Die Einleitung und alle fünf Kapitel sind enthalten. Webseitenzähler und die doppelte Formulierung in der Überschrift von Kapitel 4 wurden weggelassen.
 
 > **Redaktioneller Hinweis:** Der folgende Text gibt das Trainingskonzept des Autors wieder. Einige seiner sehr absoluten Aussagen sind wissenschaftlich nicht ausreichend begründet, etwa zum völlig passiven Arm, zur angeblich grundsätzlich längeren Ballkontaktzeit durch festeres Zugreifen und zum geringen Nutzen langsamer Übungen. Diese Aussagen sind als Position des Autors erkennbar. Die ergänzten Abbildungen und die physikalischen Hinweise am Ende stehen getrennt von der Übersetzung. Mit „Ballkontaktzeit“ ist der sehr kurze Kontakt zwischen Ball und Schläger gemeint, kein bewusstes Festhalten des Balls auf dem Belag.
